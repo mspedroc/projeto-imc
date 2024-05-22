@@ -1,2 +1,2 @@
 # projeto-imc
-Meus projetos feitos durante o curso M-Tec Desenvolvimento de Sistemas
+Projeto de aplicativo que calcula o índice de massa corporal de uma pessoa. Matéria: Programação de Aplicativos Mobile.
